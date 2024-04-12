@@ -696,21 +696,21 @@
     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=movierulzhd.best&sz=%size%",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/hexated/cloudstream-extensions-hexated",
+        "repositoryUrl": "https://github.com/JoeTinnySpace/cloudstream-extensions-hexated",
         "fileSize": 26873,
         "status": 1,
         "language": "hi",
         "authors": [
-            "Hexated"
+            "JoeTinnySpace"
         ],
         "tvTypes": [
             "TvSeries",
             "Movie"
         ],
-        "version": 65,
+        "version": 66,
         "internalName": "Movierulzhd",
         "description": "Includes: Hdmovie2, Animesaga",
-        "url": "https://raw.githubusercontent.com/hexated/cloudstream-extensions-hexated/builds/Movierulzhd.cs3",
+        "url": "https://raw.githubusercontent.com/JoeTinnySpace/cloudstream-extensions-hexated/builds/Movierulzhd.cs3",
         "name": "Movierulzhd"
     },
     {
