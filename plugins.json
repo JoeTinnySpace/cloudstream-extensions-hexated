@@ -5,7 +5,7 @@
         "iconUrl": "https://www.google.com/s2/favicons?domain=movierulzhd.best&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/JoeTinnySpace/cloudstream-extensions-hexated",
-        "fileSize": 26873,
+        "fileSize": 5663,
         "status": 1,
         "language": "hi",
         "authors": [
@@ -15,7 +15,7 @@
             "TvSeries",
             "Movie"
         ],
-        "version":66,
+        "version":65,
         "internalName": "Movierulzhd",
         "description": "Includes: Hdmovie2, Animesaga",
         "url": "https://raw.githubusercontent.com/JoeTinnySpace/cloudstream-extensions-hexated/builds/Movierulzhd.cs3",
