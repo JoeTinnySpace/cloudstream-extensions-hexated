@@ -20,7 +20,7 @@ I've made some minor changes to the catalogue (Only MovieRulzHD is maintained)
 this repo link : https://raw.githubusercontent.com/JoeTinnySpace/cloudstream-extensions-hexated/builds/repo.json
 
 ##
-Original hexated repo link : https://raw.githubusercontent.com/hexated/cloudstream-extensions-hexated/builds/repo.json
+Original hexated repo link : https://codeberg.org/cloudstream/cloudstream-extensions-hexated/raw/branch/builds/repo.json
 
 
 </div>
