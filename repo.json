@@ -3,7 +3,7 @@
   "description": "Providers from all country",
   "manifestVersion": 1,
   "pluginLists": [
-    "https://raw.githubusercontent.com/JoeTinnySpace/cloudstream-extensions-hexated/builds/plugins.json"
+    "https://raw.githubusercontent.com/codeiva4u/cloudstream-extensions-hexated-official/builds/plugins.json"
   ]
 }
 
