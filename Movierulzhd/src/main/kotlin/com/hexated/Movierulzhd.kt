@@ -11,9 +11,9 @@ import java.net.URI
 
 open class Movierulzhd : MainAPI() {
 
-    override var mainUrl = "https://movierulzhd.club"
+    override var mainUrl = "https://movierulzhd.rocks"
     var directUrl = ""
-    override var name = "Movierulzhd"
+    override var name = "MovieRulzHD"
     override val hasMainPage = true
     override var lang = "hi"
     override val hasDownloadSupport = true
@@ -23,14 +23,9 @@ open class Movierulzhd : MainAPI() {
     )
 
     override val mainPage = mainPageOf(
-        "trending" to "Trending",
-        "movies" to "Movies",
-        "tvshows" to "TV Shows",
-        "genre/netflix" to "Netflix",
-        "genre/amazon-prime" to "Amazon Prime",
-        "genre/Zee5" to "Zee5",
-        "seasons" to "Season",
-        "episodes" to "Episode",
+        "genre/malayalam" to "Malayalam",
+        "genre/tamil" to "Tamil",
+        "movies" to "Movies"
     )
 
     override suspend fun getMainPage(
