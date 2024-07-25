@@ -12,9 +12,12 @@
 </div>
 ####
 
-This is not original Hexated
+This is not original Hexated 
 ##
-I've made some minor changes to the catalogue (Only MovieRulzHD is maintained)
+I've made some minor changes to the catalogue (Only MovieRulzHD is maintained) 
+##
+This is a repo where Malayalam and Tamil content are prioritised for the viewer. If any suggestions , feel free to contact. 
+
 ##
 this repo link : https://raw.githubusercontent.com/JoeTinnySpace/cloudstream-extensions-hexated/builds/repo.json
 
