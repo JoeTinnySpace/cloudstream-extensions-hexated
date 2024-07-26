@@ -26,6 +26,11 @@ Repo contains ,
 ##
 this repo link : https://raw.githubusercontent.com/JoeTinnySpace/cloudstream-extensions-hexated/builds/repo.json
 
+
+Short Code
+
+* felwyjpq
+
 ##
 Original hexated repo link : https://codeberg.org/cloudstream/cloudstream-extensions-hexated/raw/branch/builds/repo.json
 
