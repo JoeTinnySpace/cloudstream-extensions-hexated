@@ -10,29 +10,38 @@
 [![Discord](https://invidget.switchblade.xyz/5Hus6fM)](https://discord.gg/5Hus6fM)
 
 </div>
-####
+
 
 This is not original Hexated 
 ##
 I've made some minor changes to the catalogue 
 ##
 This is a repo where Malayalam and Tamil content are prioritised for the viewer. If any suggestions , feel free to contact. 
-Repo contains ,
+
+##
+Repo contains,
+
  * Bolly2Tolly (Remote)
  * MovieRulzHD (Local)
  * SoraStream/ CodeStream (Remote)
  * MultiMovies (Remote)
 
 ##
-this repo link : https://raw.githubusercontent.com/JoeTinnySpace/cloudstream-extensions-hexated/builds/repo.json
+This repo link
 
-
-Short Code
-
-* felwyjpq
+* https://raw.githubusercontent.com/JoeTinnySpace/cloudstream-extensions-hexated/builds/repo.json
 
 ##
-Original hexated repo link : https://codeberg.org/cloudstream/cloudstream-extensions-hexated/raw/branch/builds/repo.json
+Short Code (enter this into the, add repository url in the app)
+
+* malayalam
+
+##
+Original hexated repo link 
+
+https://codeberg.org/cloudstream/cloudstream-extensions-hexated/raw/branch/builds/repo.json
+
+##
 
 Build or deploy using:
 
