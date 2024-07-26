@@ -11,8 +11,16 @@
 
 </div>
 
+CS3 app comprehensive guide
 
+* https://recloudstream.github.io/csdocs/
+
+
+<h3>About<h3/>
+
+    
 This is not original Hexated 
+
 ##
 I've made some minor changes to the catalogue 
 ##
