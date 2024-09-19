@@ -2,12 +2,12 @@ package com.hexated
 
 import com.lagradost.cloudstream3.SubtitleFile
 import com.lagradost.cloudstream3.app
-import com.lagradost.cloudstream3.extractors.Chillx
+//import com.lagradost.cloudstream3.extractors.Chillx
 import com.lagradost.cloudstream3.utils.*
 
 class Sbnmp : ExtractorApi() {
-    override val name = "fmhd"
-    override var mainUrl = "https://fmhd.bar"
+    override val name = "luluStream"
+    override var mainUrl = "https://lulu.st"
     override val requiresReferer = true
 
     override suspend fun getUrl(
