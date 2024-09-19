@@ -15,7 +15,7 @@
             "TvSeries",
             "Movie"
         ],
-        "version":68,
+        "version":69,
         "internalName": "Movierulzhd",
         "description": "Includes: content from MovieRulzHD website",
         "url": "https://raw.githubusercontent.com/JoeTinnySpace/cloudstream-extensions-hexated/main/Movierulzhd/build/Movierulzhd.cs3",

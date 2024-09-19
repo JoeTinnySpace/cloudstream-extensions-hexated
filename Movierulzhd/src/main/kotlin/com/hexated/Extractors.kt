@@ -2,7 +2,6 @@ package com.hexated
 
 import com.lagradost.cloudstream3.SubtitleFile
 import com.lagradost.cloudstream3.app
-//import com.lagradost.cloudstream3.extractors.Chillx
 import com.lagradost.cloudstream3.utils.*
 
 class Sbnmp : ExtractorApi() {
