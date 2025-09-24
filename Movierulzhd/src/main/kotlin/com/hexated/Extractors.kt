@@ -5,8 +5,8 @@ import com.lagradost.cloudstream3.app
 import com.lagradost.cloudstream3.utils.*
 
 class Sbnmp : ExtractorApi() {
-    override val name = "luluStream"
-    override var mainUrl = "https://lulu.st"
+    override val name = "upns"
+    override var mainUrl = "https://og.upns.online/"
     override val requiresReferer = true
 
     override suspend fun getUrl(
