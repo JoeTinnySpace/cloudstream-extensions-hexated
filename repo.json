@@ -3,9 +3,10 @@
   "description": "Providers from all country",
   "manifestVersion": 1,
   "pluginLists": [
-    "https://raw.githubusercontent.com/JoeTinnySpace/cloudstream-extensions-hexated/main/plugins.json"
+    "https://raw.githubusercontent.com/JoeTinnySpace/Cloudstream_Kerala/refs/heads/builds/plugins.json"
   ]
 }
+
 
 
 
